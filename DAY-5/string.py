@@ -1,2 +1,3 @@
 text = "Solomon"
-times = 3 * text + 'Moniaar'
+times = 3 * text
+print(times + 'Moniaar')
