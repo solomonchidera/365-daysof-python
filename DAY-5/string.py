@@ -9,5 +9,5 @@ text = "Solomon"
 times = 3 * text
 print(times + 'Moniaar')
 print("--------------------")
-print('Will this work maybe it will work, maybe?'
+print('Will this work maybe it will work, maybe? '
       'It will work brother no fear')
